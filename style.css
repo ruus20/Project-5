@@ -83,7 +83,7 @@ p{
     
 }
  .menu{
-     color: var(--purple #82699d);
+     color: #82699d;
     display:flex;
  
     align-items: center; 
